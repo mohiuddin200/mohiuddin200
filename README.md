@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Mohiuddin
+### Hi there 👋, my name is **Mohiuddin**
 ### I am a Web Developer
 Hi, my name is Mohiuddin and I am a web developer with experience in HTML, CSS, Bootstrap, and Javascript.
 
