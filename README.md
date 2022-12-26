@@ -29,3 +29,18 @@ Skills: HTML/CSS/Bootstrap/JavaScript
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Mohiuddin-64bit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-mohiuddin-54a18a247//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100004292329241)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Mohiudd33032210)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/13513972/md-mohiuddin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/Mohiuddin64-bit)  
 
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mohiuddin-64bit)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohiuddin-64bit)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohiuddin-64bit&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/Mohiuddin-64bit)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Mohiuddin-64bit)  
+
+![Profile views](https://gpvc.arturio.dev/Mohiuddin-64bit)  
+
