@@ -8,7 +8,7 @@ In my free time, I enjoy working on personal projects and contributing to open s
 
 Thank you for visiting my profile. I hope you find my work interesting and feel free to reach out if you have any questions or want to collaborate on a project.
 
-Skills: HTML/CSS/Bootstrap/JavaScript
+Skills: HTML / CSS / Bootstrap / JavaScript
 
 # 💫 About Me:
 🌱 I’m currently learning React JS<br>🔭 I’m currently working on JavaScript<br>📫 How to reach me: mohiuddin.niddu@gmail.com<br>💬 Ask me about Javascript
