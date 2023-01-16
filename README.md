@@ -13,7 +13,7 @@ Skills: HTML / CSS / Bootstrap / JavaScript
 🌱 I’m currently learning React JS<br>🔭 I’m currently working on JavaScript<br>📫 How to reach me: mohiuddin.niddu@gmail.com<br>💬 Ask me about Javascript
 
 # 📊 GitHub Stats:
-![Mohiuddin-64bit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohiuddin-64bit&theme=vue-dark&hide_border=false)<br/>
+![Mohiuddin-64bit's Stats](https://github-readme-stats.vercel.app/api?username=Mohiuddin-64bit&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)<br/>
 ![Mohiuddin-64bit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohiuddin-64bit&theme=vue-dark&hide_border=false)<br/>
 ![Mohiuddin-64bit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohiuddin-64bit&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
