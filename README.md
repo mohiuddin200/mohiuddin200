@@ -19,6 +19,10 @@ Thank you for visiting my profile. Let's connect and explore opportunities to co
 ![Mohiuddin-64bit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohiuddin-64bit&theme=vue-dark&hide_border=false)<br/>
 ![Mohiuddin-64bit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohiuddin-64bit&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
+# 🏆 GitHub Trophies
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_dimmed
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
