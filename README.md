@@ -14,23 +14,6 @@ Thank you for checking out my profile. Let's connect and explore opportunities t
 ## 💫 About Me
 🌱 I’m currently learning NEXT.JS<br>🔭 I’m looking to collaborate on open-source projects<br>📫 How to reach me: mohiuddin.200@outlook.com<br>🌐 Portfolio: [https://mohiuddin200.netlify.app/](https://mohiuddin200.netlify.app/)<br>💬 Ask me about React.js, JavaScript, or frontend development in general<br>⚡ Fun fact: I enjoy coding while listening to instrumental music.
 
-## 🛠 Projects
-### Personal Projects
-- **[Project Name](#)**: Brief description of the project. Technologies used: React, Redux, Node.js, MongoDB.
-- **[Project Name](#)**: Brief description of the project. Technologies used: HTML, CSS, JavaScript.
-
-### Team Projects
-- **[Project Name](#)**: Brief description of the project. Technologies used: React, Redux, TailwindCSS.
-- **[Project Name](#)**: Brief description of the project. Technologies used: Express.js, Node.js, MongoDB.
-
-## 📝 Blog Posts
-- **[Understanding React Hooks](#)**: An in-depth look at React Hooks and how to use them effectively.
-- **[JavaScript ES6 Features](#)**: A comprehensive guide to the new features introduced in ES6.
-
-## 🎓 Certifications
-- **[Certification Name](#)** - Issued by [Organization](#)
-- **[Certification Name](#)** - Issued by [Organization](#)
-
 ## 📊 GitHub Stats
 ![Mohiuddin-64bit's Stats](https://github-readme-stats.vercel.app/api?username=Mohiuddin-64bit&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)<br/>
 ![Mohiuddin-64bit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohiuddin-64bit&theme=vue-dark&hide_border=false)<br/>
@@ -38,7 +21,7 @@ Thank you for checking out my profile. Let's connect and explore opportunities t
 
 ## 📫 Contact Me
 - **Email**: mohiuddin.200@outlook.com
-- **LinkedIn**: [Mohiuddin's LinkedIn](#)
+- **LinkedIn**: [Mohiuddin's LinkedIn](www.linkedin.com/in/mohiuddin200)
 - **Portfolio**: [Mohiuddin's Portfolio](https://mohiuddin200.netlify.app/)
 
 ### ✍️ Random Dev Quote
