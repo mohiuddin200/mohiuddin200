@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm **Mohiuddin**
 
-### I am a Front-End Developer Specialized in React.js
+### I am a Front-End Developer Specialized in React JS/Next JS
 
 I am a frontend web developer proficient in HTML, CSS, Bootstrap, JavaScript, ReactJS, and Redux Toolkit. I specialize in crafting highly responsive websites and web applications, ensuring exceptional user experiences.
 
