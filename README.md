@@ -22,7 +22,7 @@ Thank you for checking out my profile. Let's connect and explore opportunities t
 ## 📫 Contact Me
 - **Email**: mohiuddin.200@outlook.com
 - **LinkedIn**: [Mohiuddin's LinkedIn](www.linkedin.com/in/mohiuddin200)
-- **Portfolio**: [Mohiuddin's Portfolio](https://mohiuddin200.netlify.app/)
+- **Portfolio**: [Mohiuddin's Portfolio](https://mohiuddin200.vercel.app/)
 
 ### ✍️ Random Dev Quote
 ![Mohiuddin-64bit](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
