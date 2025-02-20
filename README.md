@@ -15,9 +15,9 @@ Thank you for checking out my profile. Let's connect and explore opportunities t
 🌱 I’m currently learning NEXT.JS<br>🔭 I’m looking to collaborate on open-source projects<br>📫 How to reach me: mohiuddin.200@outlook.com<br>🌐 Portfolio: [https://mohiuddin200.vercel.app/](https://mohiuddin200.vercel.app/)<br>💬 Ask me about React.js, JavaScript, or frontend development in general<br>
 
 ## 📊 GitHub Stats
-![Mohiuddin-64bit's Stats](https://github-readme-stats.vercel.app/api?username=Mohiuddin-64bit&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)<br/>
-![Mohiuddin-64bit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohiuddin-64bit&theme=vue-dark&hide_border=false)<br/>
-![Mohiuddin-64bit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohiuddin-64bit&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![mohiuddin200's Stats](https://github-readme-stats.vercel.app/api?username=mohiuddin200&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)<br/>
+![mohiuddin200's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohiuddin200&theme=vue-dark&hide_border=false)<br/>
+![mohiuddin200's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohiuddin200&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ## 📫 Contact Me
 - **Email**: mohiuddin.200@outlook.com
@@ -25,7 +25,7 @@ Thank you for checking out my profile. Let's connect and explore opportunities t
 - **Portfolio**: [Mohiuddin's Portfolio](https://mohiuddin200.vercel.app/)
 
 ### ✍️ Random Dev Quote
-![Mohiuddin-64bit](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![mohiuddin200](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
